@@ -1,0 +1,4 @@
+{
+  "plugins": ["transform-object-rest-spread", "inferno"],
+  "presets": ['es2015']
+}
